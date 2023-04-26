@@ -1,0 +1,104 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    margin: 10px;
+    padding: 10px;
+}
+
+.sign_in{
+    margin: 10px;
+    padding: 10px;
+    justify-content: center;
+    display: flex;
+    text-align: left;
+}
+
+.continue {
+    background-color: #F9D949;
+    display: flex;
+    justify-content: center;
+    border-width: thin;
+    width: 100%;
+    margin: 10px; 
+    border-radius: 3px;
+}
+
+a {
+    margin: 10px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+label {
+    margin: 5px
+}
+
+input {
+    margin: 5px;
+    width: 90%;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    margin: 10px;
+}
+
+.need_help {
+    margin: 10px;
+}
+
+.border {
+    border-style: solid;
+    border-width: thin;
+    border-color: grey;
+    width: 400px;
+    height: 300px;
+}
+
+.new {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    color: grey;
+}
+
+.copyright {
+    margin: 10px;
+}
+.conditions {
+    margin: 10px; 
+}
+
+.foot_link {
+    text-decoration: none;
+}
+
+.forgot {
+    margin-left: 190px;
+}
+
+/* .password {
+    display: flex;
+    justify-content: left;
+} */
